@@ -1,0 +1,11 @@
+# Built app (run ./build.sh)
+Radio Bridge.app/
+
+# Personal runtime data: listening history, settings, lock
+bridge.log
+seen.json
+settings.json
+.bridge.lock
+
+__pycache__/
+.DS_Store
